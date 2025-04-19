@@ -1,3 +1,10 @@
+Project Documentation is located in: /notebooks/project\_documentation.ipynb
+
+Scripts are located in /src
+
+Results of the scripts are located in /data
+
+
 ## Installation Guide
 
 ### Setup
@@ -9,7 +16,7 @@
    cd Statistics_Project
    ```
 
-2. **Create and activate a virtual environment**
+2. **Create and activate a virtual environment (Only necessary if you want to run the scripts again)**
 
    ```bash
    python3 -m venv venv
@@ -21,5 +28,3 @@
    ```bash
    pip install -r requirements.txt
    ```
-
-Project Documentation is located in: /notebooks/project\_documentation.ipynb
