@@ -104,8 +104,8 @@ This project provided a comprehensive analysis of the S&P 500 returns, focusing 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/andrcode1/Statistics_Project.git
-   cd Statistics_Project
+   git clone https://github.com/andrcode1/Statistical_Analysis_SP500.git
+   cd Statistical_Analysis_SP500
    ```
 
 2. **Create and activate a virtual environment (Only necessary if you want to run the scripts again)**
