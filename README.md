@@ -91,11 +91,11 @@ The following statistics were computed for the daily returns of the S&P 500 from
 
 This project provided a comprehensive analysis of the S&P 500 returns, focusing on their distribution, confidence intervals, and the Central Limit Theorem. The key findings are as follows:
 
-1. **Daily Returns**: The analysis of daily returns from 2008–2023 revealed that they do not follow a normal distribution. The Shapiro-Wilk test, histogram, and QQ-plot all highlighted significant deviations, particularly in the tails, indicating heavy-tailed behavior.
+1. **Daily Returns**: The analysis of daily returns from 2008–2023 revealed that they do not follow a normal distribution. The Shapiro-Wilk test, histogram, and QQ-plot all highlighted significant deviations, particularly in the tails.
 
 2. **Confidence Intervals**: Monte Carlo simulations demonstrated the range of potential cumulative returns over time. The widening confidence intervals underscored the increasing uncertainty in future returns, while the median path provided a central tendency for expected outcomes.
 
-3. **Annual Mean Returns**: By examining annual mean returns from 1950–2023, the distribution was found to be closer to normal compared to daily returns. Although the Shapiro-Wilk test still rejected normality, the higher p-value and visual assessments suggested that increasing the number of observations would further align the distribution with Gaussian behavior.
+3. **Annual Mean Returns**: By examining annual mean returns from 1950–2023, the distribution was closer to normal than daily returns. Although the Shapiro-Wilk test still rejected normality, the higher p-value and visual assessments suggested that increasing the number of observations would further align the distribution with Gaussian behavior.
 
 ## Installation Guide
 
